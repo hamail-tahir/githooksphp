@@ -1,0 +1,10 @@
+{
+    "name": "htahir/githooksphp",
+    "authors": [
+        {
+            "name": "Hamail Tahir",
+            "email": "hamail.tahir@ratepay.com"
+        }
+    ],
+    "require": {}
+}
