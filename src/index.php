@@ -4,8 +4,8 @@ class Shape
 {
     private $amount;
 
-    private function getAverage($amount)
+    private function getAverage(array $numbers)
     {
-        return $amount * 100 / 100;
+        return array_sum($numbers) / count($numbers);
     }
 }
